@@ -14,10 +14,6 @@ Get the package
 ```shell
 npm i --save-dev editorjs-table
 ```
-or
-```shell
-yarn add editorjs-table --dev
-```
 
 Include module in your application
 
